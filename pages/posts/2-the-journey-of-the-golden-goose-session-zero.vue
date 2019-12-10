@@ -44,15 +44,15 @@
               <h2>New Astropath, who dis?</h2>
 
               <p>
-                Hey, listen. When Wrath & Glory was announced, we where excited. Once the
+                Hey, listen. When Wrath & Glory was announced, we were excited. Once the
                 pre-ordered PDF was available, we kicked of our first Wrath & Glory campaign.
-                The Campaign started in 2018 and we are currently approaching our #25 Session.
+                The Campaign started in 2018 and we are currently approaching our Session #25.
                 I will write a little about that campaign, delve into the background and history of
                 the sessions and will occasionally explore house rules that we established.
               </p>
 
               <p>
-                Feedback is highly welcome, wether you want to know more about the characters involved,
+                Feedback is highly welcome, weather you want to know more about the characters involved,
                 or more details regarding the specific session. Just let me know via
                 <a href="mailto:docsofdoom+posts@gmail.com?subject=Blog Feedback: #2 Golden Goose">docsofdoom+posts(at)gmail.com</a>.
               </p>
@@ -63,7 +63,7 @@
                 We decided, that the Setting would be Tier 3.
                 And that one player needed to take a Rouge Trader.
                 The rest of the characters where free to choose.
-                Overall the group consist of 7 players plus the GM.
+                Overall the group consisted of 7 players plus the GM.
                 Regarding the chosen characters...
                 Those would be created as Tier 1 to 2 Characters at first.
                 But I'm getting ahead.
@@ -75,14 +75,14 @@
               <h3>The Rogue Trader</h3>
 
               <p>
-                The Patriarch <strong>Fedor D. Vulpes</strong> is the Lord of a very old but faiding rogue trader house.
-                His sisters son is the Protagonist: <strong>Alexander B. Vulpes</strong>.
+                The Patriarch <strong>Fedor D. Vulpes</strong> is the Lord of a very old but fading rogue trader house.
+                His sisters son is the protagonist: <strong>Alexander B. Vulpes</strong>.
                 Alexander learned his trade as Seneschall of his cousin, <strong>Torben</strong>.
                 Over the years, he developed a unique skillset.
-                His political sense, high insight in the human desires and charisma,
+                His political sense, high insight in the human desires and outstanding charisma
                 allowed him to make some favourable deals. And, he also gathered some capable individuals
                 around him. Those would serve him well, once he would be assigned his own ship.
-                An this is where the story starts, Alexander is now Captain of the small Imperial
+                An this pont the story starts, Alexander is now Captain of the small Imperial
                 Frigate, the <em>Golden Goose</em>. It's not much, but it's (almost) honest work.
                 So, now let's take a look at those trusted advisors, shall we?
               </p>
@@ -111,7 +111,7 @@
               </p>
 
               <p>
-                No entourage would be complete without an Arch Militant whose purpose is to protect
+                No entourage would be complete with an Arch Militant whose purpose is to protect
                 the Captain and lead the troops. This role is filled by the wannabe highborn
                 <strong>Anastasia Argent</strong>, also called <em>'The Lady'</em> by the subordinates.
                 Protective in regard to her Lord, Alexander Vulpes,
@@ -127,14 +127,14 @@
                 For the first session, those members where created by the GM.
                 He presented multiple reduced character sheets with a picture and points distributed,
                 so that the main skills would be around 8. E.g. The lady would have Ballistic Skill 8,
-                The Pilot, ähm.. well Pilot 8, and so on. We took turns in choosing those characters,
+                The Pilot, ahm.. well Pilot 8, and so on. We took turns in choosing those characters,
                 put an name on them, and developed some characteristics on the fly, the result is in
                 the character summary that I presented above.
               </p>
 
               <p>
                 But not all players would choose a, lets say, playable (N)PC (sort of).
-                One Player would also (in addition to the Rogue Trader character) start with an
+                One player would also (in addition to the Rogue Trader character) start with an
                 almost finished character. With that I mean a Tier 3 Character but with less points
                 (around 70 to 100 BP less). We had no strict rule, and details where negotiated with
                 the GM. We will come to this character a little later.
@@ -151,7 +151,7 @@
                 unloved cousin of Captain Alexander.
 
                 House Vulpes was not the first to claim the cemetery and this expedition was less
-                an exciting hunt for archeotech and more the feast of vultures on an old
+                an exciting hunt for archeotech and more a feast of vultures on an old
                 battlefield.
 
                 The finest days of House Vulpes were long gone.
@@ -174,7 +174,7 @@
               </p>
 
               <blockquote class="blockquote" style="font-style: italic;">
-                “This is Brother Epimeteus from the third company of the Salamanders Chapter; born from
+                “This is Brother Epimetheus from the third company of the Salamanders Chapter; born from
                 the XVIII. Legion.
 
                 The customs demand, that he will be part of your crew until seven decades have passed
@@ -229,7 +229,7 @@
               </blockquote>
 
               <p>
-                Heldenreich (roughly Heroesrealm or herorich in english) seems to be in charge of the defence
+                Heldenreich (roughly Heroesrealm in english) seems to be in charge of the defence
                 force. Alexander uses whats left as options, he charges through the Tyranide vessels,
                 dragging the Orks behind him right into the melee, so that both Xenos are decimating
                 each other. What a cunning plan! Well, it works, and the remaining survivors
@@ -247,22 +247,22 @@
                 Also, Heldenreich announces that (as a gift) he will grant the Greyfox the right
                 to lead the expansion into newly discovered lands (more on that in a different
                 article). Fun fact: it's not a gift, it's a chore. But well, The House Vulpes is
-                even more decimated, Alexander is the last remaining heir and the Goose their last
-                ship. So he will do what he does best, roll with the dice and see were it lands.
+                even more decimated, Alexander is the last remaining member and the Golden Goose their last
+                ship. So he will do what he does best, roll with the dice and see where they land.
               </p>
 
               <h3>New allies</h3>
 
               <p>
                 The New exploration force will get some new faces (read player characters.
-                First, the a renown Tech-Priest, <strong>Koreljow</strong>, proclaims,
+                First, a renown Tech-Priest, <strong>Koreljow</strong>, proclaims,
                 that he will join Lord Vulpes to investigate anomalies on the new frontier.
                 This is a highly intelligent and capable Tech-Magos, an asset that is
                 a surprise for sure, but a welcome one.
               </p>
 
               <p>
-                Another asset is the Fresh Baked Commissar <strong>Maxim Semjoniwitsch Orlow</strong>
+                Another asset is the freshly baked Commissar <strong>Maxim Semjoniwitsch Orlow</strong>
                 assigned and ordered to organize the manpower needed to claim the new worlds in the
                 name of the emperor.
               </p>
@@ -277,7 +277,7 @@
               <ul>
                 <li>The Rogue Trader, Lord Alexander Bartholome Vulpes</li>
                 <li>Commissar Maxim Semjonowitsch Orlow, from Valhalla</li>
-                <li>Asterts Scout Epimetheus, from the Slamanders Chapter</li>
+                <li>Astartes Scout Epimetheus, from the Salmanders Chapter</li>
                 <li>Magos Sergei Pawlowitsch Koreljow, who will make Tech DN's obsolete</li>
               </ul>
 
@@ -333,7 +333,7 @@ export default {
         shortTitle: 'The Golden Goose #0',
         slug: 'the-journey-of-the-golden-goose-session-zero',
         abstract:
-          'Let\'s take a look at our first session from our log running tier 3 campaign',
+          'Let\'s take a look at our first session from our long running tier 3 campaign',
         author: {
           id: 1,
           name: 'Brother Lucius',
